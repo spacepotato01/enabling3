@@ -1,0 +1,41 @@
+body {
+  background-color: #FCF8E8;
+}
+.logo1 {
+  height: 100px;
+  width: 100px;
+  border-radius: 100%;
+}
+/*container*/
+.card-center{
+  padding-top: 200px;
+}
+.card-center{
+  padding-top: -100px;
+}
+.f1 {
+  display: block;
+  width: 100%;
+  height: 650px;
+}
+
+.p1 {
+  padding-bottom: 10%
+}
+
+#food-samples {
+  background-color: #FCF8E8;
+}
+.cardpics {
+  display: block;
+  width: auto;
+  height: 300px;
+}
+
+.card {
+  background-color: #DF7861;
+}
+
+.card-deck {
+  padding-bottom: 5%;
+}
